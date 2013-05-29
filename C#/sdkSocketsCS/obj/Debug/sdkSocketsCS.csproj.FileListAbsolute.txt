@@ -1,0 +1,50 @@
+C:\Users\Lohia\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\sdkSocketsCS\Bin\Debug\ApplicationIcon.png
+C:\Users\Lohia\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\sdkSocketsCS\Bin\Debug\Background.png
+C:\Users\Lohia\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\sdkSocketsCS\Bin\Debug\Images\play.png
+C:\Users\Lohia\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\sdkSocketsCS\Bin\Debug\Images\save.png
+C:\Users\Lohia\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\sdkSocketsCS\Bin\Debug\Images\settings.png
+C:\Users\Lohia\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\sdkSocketsCS\Bin\Debug\sdkSocketsCS.dll
+C:\Users\Lohia\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\sdkSocketsCS\Bin\Debug\sdkSocketsCS.pdb
+C:\Users\Lohia\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\sdkSocketsCS\Bin\Debug\AppManifest.xaml
+C:\Users\Lohia\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\sdkSocketsCS\Bin\Debug\sdkSocketsCS.xap
+C:\Users\Lohia\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\sdkSocketsCS\obj\Debug\App.g.i.cs
+C:\Users\Lohia\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\sdkSocketsCS\obj\Debug\MainPage.g.i.cs
+C:\Users\Lohia\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\sdkSocketsCS\obj\Debug\settings.g.i.cs
+C:\Users\Lohia\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\sdkSocketsCS\obj\Debug\sdkSocketsCS.g.resources
+C:\Users\Lohia\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\sdkSocketsCS\obj\Debug\sdkSocketsCS.dll
+C:\Users\Lohia\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\sdkSocketsCS\obj\Debug\sdkSocketsCS.pdb
+C:\Users\Lohia\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\sdkSocketsCS\obj\Debug\XapCacheFile.xml
+C:\Users\mohitkg\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\sdkSocketsCS\Bin\Debug\ApplicationIcon.png
+C:\Users\mohitkg\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\sdkSocketsCS\Bin\Debug\Background.png
+C:\Users\mohitkg\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\sdkSocketsCS\Bin\Debug\Images\play.png
+C:\Users\mohitkg\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\sdkSocketsCS\Bin\Debug\Images\save.png
+C:\Users\mohitkg\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\sdkSocketsCS\Bin\Debug\Images\settings.png
+C:\Users\mohitkg\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\sdkSocketsCS\Bin\Debug\sdkSocketsCS.dll
+C:\Users\mohitkg\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\sdkSocketsCS\Bin\Debug\sdkSocketsCS.pdb
+C:\Users\mohitkg\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\sdkSocketsCS\Bin\Debug\AppManifest.xaml
+C:\Users\mohitkg\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\sdkSocketsCS\Bin\Debug\sdkSocketsCS.xap
+C:\Users\mohitkg\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\sdkSocketsCS\obj\Debug\sdkSocketsCS.csprojResolveAssemblyReference.cache
+C:\Users\mohitkg\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\sdkSocketsCS\obj\Debug\App.g.cs
+C:\Users\mohitkg\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\sdkSocketsCS\obj\Debug\MainPage.g.cs
+C:\Users\mohitkg\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\sdkSocketsCS\obj\Debug\settings.g.cs
+C:\Users\mohitkg\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\sdkSocketsCS\obj\Debug\sdkSocketsCS.g.resources
+C:\Users\mohitkg\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\sdkSocketsCS\obj\Debug\sdkSocketsCS.dll
+C:\Users\mohitkg\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\sdkSocketsCS\obj\Debug\sdkSocketsCS.pdb
+C:\Users\mohitkg\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\sdkSocketsCS\obj\Debug\XapCacheFile.xml
+C:\Users\shivanshu\Desktop\mobile\C#\sdkSocketsCS\Bin\Debug\ApplicationIcon.png
+C:\Users\shivanshu\Desktop\mobile\C#\sdkSocketsCS\Bin\Debug\Background.png
+C:\Users\shivanshu\Desktop\mobile\C#\sdkSocketsCS\Bin\Debug\Images\play.png
+C:\Users\shivanshu\Desktop\mobile\C#\sdkSocketsCS\Bin\Debug\Images\save.png
+C:\Users\shivanshu\Desktop\mobile\C#\sdkSocketsCS\Bin\Debug\Images\settings.png
+C:\Users\shivanshu\Desktop\mobile\C#\sdkSocketsCS\Bin\Debug\sdkSocketsCS.dll
+C:\Users\shivanshu\Desktop\mobile\C#\sdkSocketsCS\Bin\Debug\sdkSocketsCS.pdb
+C:\Users\shivanshu\Desktop\mobile\C#\sdkSocketsCS\Bin\Debug\AppManifest.xaml
+C:\Users\shivanshu\Desktop\mobile\C#\sdkSocketsCS\Bin\Debug\sdkSocketsCS.xap
+C:\Users\shivanshu\Desktop\mobile\C#\sdkSocketsCS\obj\Debug\sdkSocketsCS.csprojResolveAssemblyReference.cache
+C:\Users\shivanshu\Desktop\mobile\C#\sdkSocketsCS\obj\Debug\App.g.i.cs
+C:\Users\shivanshu\Desktop\mobile\C#\sdkSocketsCS\obj\Debug\MainPage.g.i.cs
+C:\Users\shivanshu\Desktop\mobile\C#\sdkSocketsCS\obj\Debug\settings.g.i.cs
+C:\Users\shivanshu\Desktop\mobile\C#\sdkSocketsCS\obj\Debug\sdkSocketsCS.g.resources
+C:\Users\shivanshu\Desktop\mobile\C#\sdkSocketsCS\obj\Debug\sdkSocketsCS.dll
+C:\Users\shivanshu\Desktop\mobile\C#\sdkSocketsCS\obj\Debug\sdkSocketsCS.pdb
+C:\Users\shivanshu\Desktop\mobile\C#\sdkSocketsCS\obj\Debug\XapCacheFile.xml

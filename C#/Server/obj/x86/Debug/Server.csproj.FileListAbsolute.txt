@@ -1,0 +1,15 @@
+C:\Users\Lohia\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\Server\bin\Debug\SocketsXO_Server.exe
+C:\Users\Lohia\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\Server\bin\Debug\SocketsXO_Server.pdb
+C:\Users\Lohia\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\Server\obj\x86\Debug\SocketsXO_Server.exe
+C:\Users\Lohia\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\Server\obj\x86\Debug\SocketsXO_Server.pdb
+C:\Users\Lohia\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\mohitkg\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\Server\obj\x86\Debug\SocketsXO_Server.exe
+C:\Users\mohitkg\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\Server\obj\x86\Debug\SocketsXO_Server.pdb
+C:\Users\mohitkg\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\Server\bin\Debug\SocketsXO_Server.exe
+C:\Users\mohitkg\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\Server\bin\Debug\SocketsXO_Server.pdb
+C:\Users\mohitkg\Desktop\Tic-Tac-Toe Over Sockets Sample\C#\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\shivanshu\Desktop\mobile\C#\Server\obj\x86\Debug\SocketsXO_Server.exe
+C:\Users\shivanshu\Desktop\mobile\C#\Server\obj\x86\Debug\SocketsXO_Server.pdb
+C:\Users\shivanshu\Desktop\mobile\C#\Server\bin\Debug\SocketsXO_Server.exe
+C:\Users\shivanshu\Desktop\mobile\C#\Server\bin\Debug\SocketsXO_Server.pdb
+C:\Users\shivanshu\Desktop\mobile\C#\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
